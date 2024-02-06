@@ -1,0 +1,11 @@
+
+System
+
+WINA  ==> DC, DNS 
+se-SCCM ==> SCCM server all rolls   (DHCP)
+se-sql-server-1  SQL AG  Node  (Def)
+se-sql-server-2  SQL AG Node
+se-sql-server-3  SQL AG Node 
+SQL cluster 
+
+se-storage-1   Iscsi Disk
